@@ -1,0 +1,30 @@
+{
+  "clientName": "Pedrito",
+  "GreenPath": "GreenPath Financial Wellness",
+  "Additional":"Otras notas",
+  "series": {
+		"expenses": 
+		[
+			{
+				"Name": "House", 
+				"Amount": 1500
+			},
+			{
+				"Name": "CreditCard", 
+				"Amount": 1000
+			},
+			{
+				"Name": "Car", 
+				"Amount": 500
+			},
+			{				
+				"Name": "Student Loan", 
+				"Amount": 250
+			},
+			{				
+				"Name": "X", 
+				"Amount": 1250
+			}					
+		]
+	}
+}
