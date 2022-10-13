@@ -3,6 +3,17 @@
   "GreenPath": "GreenPath Financial Wellness",
   "Additional":"Otras notas",
   "series": {
+          "income": 
+		[
+			{
+				"Name": "Day Job", 
+				"Amount": 1000
+			},
+			{				
+				"Name": "Night Job", 
+				"Amount": 550
+			}				
+		],
 		"expenses": 
 		[
 			{
